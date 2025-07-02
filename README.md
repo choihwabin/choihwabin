@@ -14,6 +14,7 @@
  7. 클론 코딩 - 동물병원 홈페이지 PC버전으로 구현하기 [https://choihwabin.github.io/hospital/]<br>
  8. 쑤니디저트카페 홈페이지 반응형 제작 후 GUESS홈페이지로 리모델링 [https://choihwabin.github.io/dessert/]<br>
  9. 클론코딩 - 지니펫앱 구현하기 [https://choihwabin.github.io/ginipet/]<br>
-
+ 10. React를 이용한 영화todolist [https://choihwabin.github.io/cgv2025/]<br>
+ 11. 클론코딩 - React router-dom을 활용한 마켓컬리 구현 [https://choihwabin.github.io/kully2025/]<br>
 
 
