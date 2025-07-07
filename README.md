@@ -1,12 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend&fontSize=30)
 
  # PROFILE
+💡사용의 편리함을 넘어서, ✨눈이 즐거운 경험을 만드는 프론트엔드 개발자 최화빈입니다.
+🔎끊임없이 배우고 성장하며, 더 나은 사용자 경험을 위한 🤔고민을 즐깁니다.
+<br><br><br><br><br><br>
  
  ## PORTFOLIO
- 포트폴리오 주소<strong>(https://choihwabin.github.io/portfolio/)</strong>
- ## SKILLS
+ 📌포트폴리오 주소<strong>(https://choihwabin.github.io/portfolio/)</strong>
+ <br><br><br><br>
+ ## 💻SKILLS
   <img src="https://img.shields.io/badge/HTML5-orange?style=flat-square&logo=HTML5&logoColor=white" alt="html5" />&nbsp;<img src="https://img.shields.io/badge/CSS3-blue?style=flat-square&logo=CSS&logoColor=white" alt="css3" />&nbsp;<img src="https://img.shields.io/badge/javascript-yellow?style=flat-square&logo=javascript&logoColor=white" alt="javascript" />&nbsp;<img src="https://img.shields.io/badge/React-skyblue?style=flat-square&logo=React&logoColor=white" alt="react" />&nbsp;<img src="https://img.shields.io/badge/jQuery-blue?style=flat-square&logo=jQuery&logoColor=white" alt="react" />&nbsp;<img src="https://img.shields.io/badge/Figma-red?style=flat-square&logo=Figma&logoColor=white" alt="react" />&nbsp;<img src="https://img.shields.io/badge/Sass-pink?style=flat-square&logo=Sass&logoColor=white" alt="react" />&nbsp;<img src="https://img.shields.io/badge/php-purple?style=flat-square&logo=PHP&logoColor=white" alt="php" />
- ## PROJECT
+  <br><br><br><br>
+ ## 👩‍💻PROJECT
  1. 개인 프로젝트 알테오젠(바이오기업)홈페이지 랜딩페이지로 리모델링 [https://choihwabin.github.io/project1/]<br>
  2. 팀 프로젝트 롯데시네마홈페이지 반응형웹앱으로 구현하기(PHP)<strong>(메인페이지(헤더,푸터,메인), 영화관소개, 영화순위)</strong> [http://chlghkqls123.dothome.co.kr/%EB%A1%AF%EB%8D%B0%EC%8B%9C%EB%84%A4%EB%A7%88/]<br>
  3. 팀 프로젝트 중고매매사이트 반응형웹앱으로 제작하기(React)<strong>(메인페이지(헤더,푸터,메인), 마이페이지, 백엔드 )</strong> [https://web-rego-src-mbeeobco2e6ef2af.sel4.cloudtype.app/]<br>
