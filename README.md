@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Frontend&fontSize=30)
 
  # PROFILE
-💡사용의 편리함을 넘어서, ✨눈이 즐거운 경험을 만드는 프론트엔드 개발자 최화빈입니다.
+💡사용의 편리함을 넘어서, ✨눈이 즐거운 경험을 만드는 프론트엔드 개발자 최화빈입니다.<br>
 🔎끊임없이 배우고 성장하며, 더 나은 사용자 경험을 위한 🤔고민을 즐깁니다.
 <br><br><br><br><br><br>
  
