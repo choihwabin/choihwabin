@@ -23,5 +23,6 @@
  9. 클론코딩 - 지니펫앱 구현하기 [https://choihwabin.github.io/ginipet/]<br>
  10. React를 이용한 영화todolist [https://choihwabin.github.io/cgv2025/]<br>
  11. 클론코딩 - React router-dom을 활용한 마켓컬리 구현 [https://choihwabin.github.io/kully2025/]<br>
+ 11. 클론코딩 - React API를 활용한 Netflix 구현 [https://choihwabin.github.io/netflix/]<br>
 
 
